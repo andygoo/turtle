@@ -1,0 +1,36 @@
+{
+    "snippets": [
+        {
+            "title": "Simple Examples",
+            "file": "",
+            "children": [
+                {
+                    "title": "Simple Star Test",
+                    "file": "test.js",
+                    "children": null
+                },
+                {
+                    "title": "Incrementing Steps",
+                    "file": "increment.js",
+                    "children": null
+                },
+                {
+                    "title": "Five Sided Pentagram",
+                    "file": "pentagram.js",
+                    "children": null
+                }
+            ]
+        },
+        {
+            "title": "Coloured Examples",
+            "file": "",
+            "children": [
+                {
+                    "title": "Incrementing Coloured Steps",
+                    "file": "increment-colour.js",
+                    "children": null
+                }
+            ]
+        }
+    ]
+}

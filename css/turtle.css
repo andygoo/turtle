@@ -1,0 +1,101 @@
+/**
+This file is part of Purplepixie Turtle.
+
+Purplepixie Turtle is (C) Copyright 2017 David Cutting (dcutting@purplepixie.org).
+
+Purplepixie Turtle is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Purplepixie Turtle is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Purplepixie Turtle.  If not, see <http://www.gnu.org/licenses/>.
+**/
+body
+{
+	font-family: Verdana, sans-serif;
+}
+
+#header
+{
+	border-bottom: solid 1px black;
+	padding: 1em;
+	margin-bottom: 0.5em;
+}
+
+#title
+{
+	font-size: 200%;
+	font-weight: bold;
+}
+
+#author
+{
+
+}
+
+#loading
+{
+	font-size: 200%;
+	font-weight: bold;
+	text-align: center;
+}
+
+#body
+{
+	display: none;
+}
+
+#canvas
+{
+	
+}
+
+#turtle_canvas
+{
+	border: dashed 1px #a0a0a0;
+}
+
+#code
+{
+	
+}
+
+#turtle_code
+{
+	font-family: "Lucida Console", Monaco, monospace;
+	height: 300px;
+	width: 340px;
+}
+
+#single-command
+{
+	margin-top: 0.4em;
+}
+
+#command-input
+{
+	width: 75%;
+}
+
+#data
+{
+	padding: 1em;
+}
+
+#footer
+{
+	border-top: solid 1px black;
+	clear: both;
+	padding: 1em;
+}
+
+#error-title
+{
+	color: red;
+}
